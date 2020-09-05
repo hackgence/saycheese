@@ -23,3 +23,6 @@ cd saycheese
 bash saycheese.sh
 ```
 
+
+This is a backup of [thelinuxchoice/saycheese](https://github.com/thelinuxchoice/saycheese)
+
